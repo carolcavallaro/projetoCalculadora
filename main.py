@@ -11,4 +11,10 @@ subtracao2 = int(input('Digite outro número: '))
 subtracao = subtracao1 - subtracao2
 print(f'O resultado é: {subtracao}')
 
+print('Vamos multiplicar agora!')
+multiplicacao1 = int(input('Digite um número: '))
+multiplicacao2 = int(input('Digite mais um número: '))
+multiplicacao = multiplicacao1 * multiplicacao2
+print(f'O resultado é: {multiplicacao}')
+
 # --- FIM DO ALGORITMO ---
